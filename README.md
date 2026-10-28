@@ -16,26 +16,26 @@ The repository represents my learning progress, starting from basic C syntax and
 
 📚 Topics Covered
 
-C Syntax 
-C output
-C operator
-if-else(conditional statement)
-Switch
-Loops ("for", "while" "do while")
-"break" and "continue"
-Arrays
-Strings
-Functions
-Recursion
-Pointers
-Structures
-Function pointer
-String function
-Boolean Values
-Memory
-Project:Implement organisation and employee management system.
-Basic Problem Solving
-📂 Repository Structure
+C Syntax ,
+C output,
+C operator,
+if-else(conditional statement),
+Switch,
+Loops ("for", "while" "do while"),
+"break" and "continue",
+Arrays,
+Strings,
+Functions,
+Recursion,
+Pointers,
+Structures,
+Function pointer,
+String function,
+Boolean Values,
+Memory,
+Project:Implement organisation and employee management system,
+Basic Problem Solving,
+📂 Repository Structure.
 
 Each topic is organized into separate folders containing related C programs and practice exercises.
 
